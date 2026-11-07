@@ -5,7 +5,7 @@
 
 ## 在线体验
 
-<https://ddjjnk.github.io/rid-teardown/>
+<https://ddjjnk.github.io/low-altitude-defense/>
 
 ## 两种玩法
 
